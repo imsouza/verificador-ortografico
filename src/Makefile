@@ -30,8 +30,8 @@ clean:
 	rm -rf $(OBJS) $(PROJECT)
 
 run: $(PROJECT)
-	./$(PROJECT) -d ../dics/Portugues.txt -t  ../input/input_ptBR_1.txt -avl
+	./$(PROJECT) -d ../dics/Portugues.txt -t ../input/input_ptBR_1.txt -avl
 
 memcheck: $(PROJECT)
-	valgrind --tool=memcheck --leak-check=full ./$(EXECUTAVEL) -d ../dics/Portugues.txt -t ../input/input_ptBR_4.txt -avl
+	valgrind --tool=memcheck --leak-check=full ./$(PROJECT) -d ../dics/Portugues.txt -t ../input/input_ptBR_1.txt -avl
 
