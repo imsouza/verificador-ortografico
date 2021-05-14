@@ -35,7 +35,7 @@ Obs.: todos gráficos estão disponíveis em [/plots]
 #### Dicionário pt-BR
 ![abb-completa-pt](https://user-images.githubusercontent.com/39147407/118263033-1e32d100-b48c-11eb-940a-318ce236bbc3.png)
 
-![avl-completa-pt](https://user-images.githubusercontent.com/39147407/118263064-28ed6600-b48c-11eb-8186-55177eed9e2f.png)
+![avl-completa-pt](https://user-images.githubusercontent.com/39147407/118267774-f5faa080-b492-11eb-92eb-ed59e48e9db5.png)
 
 #### Dicionário en-US
 ![abb-completa-en](https://user-images.githubusercontent.com/39147407/118263131-402c5380-b48c-11eb-9f11-627ecc3b12a8.png)
