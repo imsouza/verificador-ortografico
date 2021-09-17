@@ -1,6 +1,6 @@
 # Verificador Ortografico
 
-Projeto desenvolvido para a disciplina de Estruturas de Dados da UFES que realiza a verificação ortográfica de arquivos de textos com base no dicionário passado para fins de análise de desempenho.
+Projeto desenvolvido para a disciplina de Estruturas de Dados da UFES que realiza a verificação ortográfica de arquivos de textos com base no dicionário passado.
 
 ## Observação
 Tanto as entradas de dados disponíveis em [/input] quanto os dicionários disponíveis em [/dics] podem ser modificados livremente e/ou adicionado novos fazendo as devidas alterações na execução.
