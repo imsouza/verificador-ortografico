@@ -37,11 +37,6 @@ Obs.: todos gráficos estão disponíveis em [/plots]
 
 ![avl-completa-pt](https://user-images.githubusercontent.com/39147407/118267774-f5faa080-b492-11eb-92eb-ed59e48e9db5.png)
 
-#### Dicionário en-US
-![abb-completa-en](https://user-images.githubusercontent.com/39147407/118263131-402c5380-b48c-11eb-9f11-627ecc3b12a8.png)
-
-![avl-completa-en](https://user-images.githubusercontent.com/39147407/118263156-47ebf800-b48c-11eb-8e99-8aae778c234e.png)
-
 ## OS Suporte
 
 Linux
